@@ -31,3 +31,8 @@ von [Lisi Linhart](https://twitter.com/lisi_linhart)
 <http://slides.com/lisilinhart/waapi#/>
 
 ### Links
+https://codepen.io/collection/AzNeEQ/
+https://lisilinhart.info/posts/waapi-introduction
+http://danielcwilson.com/blog/2015/07/animations-intro/
+http://rachelnabors.com/waapi
+https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API/Using_the_Web_Animations_API
